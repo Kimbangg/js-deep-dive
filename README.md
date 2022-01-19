@@ -6,7 +6,7 @@
 | 7장  |            연산자            |     [바로가기](https://kimbangg.notion.site/7-65e310a8c12040fca145022f1212481b)     |
 | 10장 |         객체 리터럴          |    [바로가기](https://kimbangg.notion.site/10-0aae3a95a2944c8687239911676bcc06)     |
 | 11장 |    원시 값과 객체의 비교     |    [바로가기](https://kimbangg.notion.site/11-3203d497a9134d2e9e7caafc910a32b5)     |
-| 12장 |             함수             |   [바로가기](<(https://kimbangg.notion.site/12-245a52391676455bb15e89e2d2740ad8)    |
+| 12장 |             함수             |   [바로가기](https://kimbangg.notion.site/12-245a52391676455bb15e89e2d2740ad8)    |
 | 13장 |            스코프            |    [바로가기](https://kimbangg.notion.site/13-6d4b5d8887f348e9b0858c0746ac0a0a)     |
 | 14장 |      전역 변수의 문제점      |    [바로가기](https://kimbangg.notion.site/14-d490234b146b40cfa62799bb1799e12f)     |
 | 16장 |    프로퍼티와 어트리뷰트     |    [바로가기](https://kimbangg.notion.site/16-924288636b504d399c3e8c8196bd0941)     |
